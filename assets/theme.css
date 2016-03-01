@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+nav{
+    background: #fff;
+    color:#2f3291;
+}
+nav .brand-logo{
+    background: url("http://www.segundamano.mx/img/logossmmx.png");
+    background-repeat: no-repeat ;
+    background-size: cover;
+    display: block;
+    width: 250px;
+    height:50px;
+    margin: 8px;
+    text-indent: -5000px;
+}
+nav ul a{
+    color:#2f3291;
+}
+
+footer.page-footer{
+   background: #2f3291 ;
+}
+
+main {
+    flex: 1 0 auto;
+}

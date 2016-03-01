@@ -1,0 +1,5 @@
++Wireframes	OK
++Paleta de colores de la marca
++HEADER y FOOTER
++Buscar el contenido relevante
+
